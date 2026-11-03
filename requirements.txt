@@ -4,3 +4,4 @@ joblib
 xgboost
 fastapi
 uvicorn
+mlflow
