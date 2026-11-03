@@ -1,3 +1,19 @@
+## Live Demo
+
+Swagger UI:
+
+https://used-car-price-prediction-13ch.onrender.com/docs
+
+API Endpoint:
+
+POST `/predict`
+
+배포 환경:
+- Render
+- Docker
+- FastAPI
+- XGBoost
+
 # Used Car Price Prediction API
 
 중고차 데이터를 활용해 차량 가격을 예측하는 머신러닝 기반 REST API 프로젝트입니다.
